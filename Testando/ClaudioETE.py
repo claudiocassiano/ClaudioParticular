@@ -1,7 +1,6 @@
 
-
-
-p1 = float (input("Um numero:")
-p2 = float (input("Outro numero:")
+p1 = int(input('Digite um número: '))
+p2 = int(input('Digite outro número: '))
 soma = (p1 + p2) *2
 print(soma)
+

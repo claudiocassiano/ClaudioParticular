@@ -1,7 +1,7 @@
 
 print("Coloque sua senha para ter acesso ao sistema\n")
 
-senha = str(input("Digite sua senha, - admin ou user: \n"))
+senha = str(input("Digite sua senha abaixo, - admin ou user: \n"))
 
 if(senha == "admin"):
     print("Olá, Administrador.")
